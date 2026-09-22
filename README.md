@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1300&color=818CF8&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+experi%C3%AAncias+digitais.;React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Supabase.;Aprendendo%2C+construindo+e+evoluindo+a+cada+projeto." alt="Apresentação animada">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1300&color=818CF8&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+experi%C3%AAncias+digitais.;C%23+%E2%80%A2+Node.js+%E2%80%A2+React+Native+%E2%80%A2+SQL+Server.;Aprendendo%2C+construindo+e+evoluindo+a+cada+projeto." alt="Apresentação animada">
 </p>
 
 ## ◈ Olá, eu sou o Lucas
 
-Desenvolvedor em construção, interessado em transformar problemas reais em produtos simples, úteis e bem cuidados.  
-No momento, estou desenvolvendo aplicações mobile e web, com atenção à experiência de quem usa e à qualidade de quem mantém o código.
+Desenvolvedor interessado em transformar problemas reais em produtos simples, úteis e bem cuidados.  
+Tenho experiência com aplicações e integrações em **C#**, **Node.js**, **Node-RED** e bancos de dados **SQL Server**, e sigo expandindo essa base com projetos mobile e web.
 
 > Construir é dar forma a uma ideia. Melhorar é aprender com ela.
 
@@ -26,9 +26,9 @@ Aplicações responsivas, fluxos claros e experiências que funcionam bem tanto 
 </td>
 <td width="50%" valign="top">
 
-### Sistemas e dados
+### Sistemas e integrações
 
-Integrações, autenticação, banco de dados e estrutura para produtos que precisam crescer com consistência.
+APIs, automações, fluxos conectados e banco de dados para produtos que precisam crescer com consistência.
 
 </td>
 </tr>
@@ -37,8 +37,15 @@ Integrações, autenticação, banco de dados e estrutura para produtos que prec
 ## ◈ Caixa de ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,reactnative,expo,supabase,postgres,git,github,vscode&theme=dark" alt="TypeScript, React, React Native, Expo, Supabase, PostgreSQL, Git, GitHub e VS Code">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,react,reactnative,expo,supabase,mysql,postgres,git,github,vscode&theme=dark" alt="C#, .NET, Node.js, TypeScript, React, React Native, Expo, Supabase, bancos de dados, Git, GitHub e VS Code">
 </p>
+
+| Área | Tecnologias e prática |
+| :-- | :-- |
+| **Backend** | C#, .NET, Node.js e APIs |
+| **Dados** | Microsoft SQL Server, PostgreSQL, modelagem e consultas |
+| **Automação** | Node-RED, integrações e fluxos de trabalho |
+| **Produto** | TypeScript, React Native, Expo e Supabase |
 
 ```text
              IDEIA  ──►  PROTÓTIPO  ──►  PRODUTO
@@ -51,9 +58,10 @@ Integrações, autenticação, banco de dados e estrutura para produtos que prec
 ## ◈ Em foco
 
 - Criando experiências mobile com React Native e Expo
-- Explorando TypeScript, Supabase e PostgreSQL
+- Construindo APIs e integrações com C# e Node.js
+- Automatizando processos e conectando serviços com Node-RED
+- Trabalhando com SQL Server, Supabase e PostgreSQL
 - Evoluindo projetos do protótipo a uma solução utilizável
-- Aprendendo através de prática, revisão e iteração
 
 ## ◈ Princípio
 
