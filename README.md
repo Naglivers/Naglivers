@@ -8,7 +8,7 @@
 
 ## ◈ Olá, eu sou o Lucas
 
-Desenvolvedor interessado em transformar problemas reais em produtos simples, úteis e bem cuidados.  
+Desenvolvedor com **6 anos de experiência**, interessado em transformar problemas reais em produtos simples, úteis e bem cuidados.  
 Tenho experiência com aplicações e integrações em **C#**, **Node.js**, **Node-RED** e bancos de dados **SQL Server**, e sigo expandindo essa base com projetos mobile e web.
 
 > Construir é dar forma a uma ideia. Melhorar é aprender com ela.
@@ -37,7 +37,7 @@ APIs, automações, fluxos conectados e banco de dados para produtos que precisa
 ## ◈ Caixa de ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,react,reactnative,expo,supabase,mysql,postgres,git,github,vscode&theme=dark" alt="C#, .NET, Node.js, TypeScript, React, React Native, Expo, Supabase, bancos de dados, Git, GitHub e VS Code">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,nodejs,ts,react,reactnative,expo,supabase,mysql,postgres,git,github,vscode&theme=dark" alt="C#, .NET, Visual Studio Community, Node.js, TypeScript, React, React Native, Expo, Supabase, bancos de dados, Git, GitHub e VS Code">
 </p>
 
 | Área | Tecnologias e prática |
@@ -45,6 +45,7 @@ APIs, automações, fluxos conectados e banco de dados para produtos que precisa
 | **Backend** | C#, .NET, Node.js e APIs |
 | **Dados** | Microsoft SQL Server, PostgreSQL, modelagem e consultas |
 | **Automação** | Node-RED, integrações e fluxos de trabalho |
+| **Ambiente** | Visual Studio Community, VS Code, Git e GitHub |
 | **Produto** | TypeScript, React Native, Expo e Supabase |
 
 ```text
@@ -68,6 +69,7 @@ APIs, automações, fluxos conectados e banco de dados para produtos que precisa
 ```bash
 $ ./build --mindset
 
+experience      ████████████████████  6 anos
 curiosity       ████████████████████  ativa
 consistency     ████████████████░░░░  em progresso
 ideas           ██████████████████░░  em construção
